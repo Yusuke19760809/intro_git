@@ -2,3 +2,4 @@ Git練習用
 練習中
 ・git add
 ・git commit
+・git rm
